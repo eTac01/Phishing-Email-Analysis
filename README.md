@@ -64,9 +64,19 @@ Let's used MXToolbox and Google Admin Toolbox to check header details.
 
   Real companies like PayPal maintain strict language standards.
 
+
+ # spot few  Indicator	
+
+- Mismatched URL	Link looks like PayPal but redirects elsewhere	paypal.com.verify-userinfo.net
+- Urgent Language	Pushes user to act fast	“Verify immediately to avoid suspension”
+- Header Anomaly	IP & SPF mismatch	Sent from non-PayPal server
+- Grammar Errors
+
+  these are the minor indicator, you should focus or be smart to find this stuff before clicking any gmail, or liks
+
 # Summarize phishing traits found in the email
 
-This phishing email clearly demonstrates multiple social engineering techniques — spoofing, urgency, fake links, and technical header manipulation.
+  This phishing email clearly demonstrates multiple social engineering techniques — spoofing, urgency, fake links, and technical header manipulation.
 
   Analyzing this helped me strengthen my awareness of phishing tactics and improve my ability to spot red flags in real-world.
 
