@@ -34,7 +34,7 @@ PayPal Security Team
 
 # Check email headers for discrepancies (using online header analyzer).
 
-Let's used MXToolbox and Google Admin Toolbox to check header details.
+Let's used ```MXToolbox``` and ```Google Admin Toolbox``` to check header details.
   Result: Email was actually sent from an IP located in Eastern Europe, not the US (where PayPal servers are based).
 
   Return-Path and SPF record failed validation.
